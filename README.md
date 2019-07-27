@@ -1,5 +1,5 @@
 # PapierKamienNozyce
 
-Znana wszystkim gra "Papier kamień nożyce" w wydaniu przeglądarkowym.
+Znana wszystkim gra "Papier kamień nożyce".
 
 Projekt do nauki JavaScript. 
