@@ -1,5 +1,3 @@
 # PapierKamienNozyce
 
-Znana wszystkim gra "Papier kamień nożyce".
-
-Projekt do nauki JavaScript. 
+Project to get familiar with JavaScript.
